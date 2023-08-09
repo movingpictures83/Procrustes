@@ -1,0 +1,2 @@
+Prefix plugins/Procrustes/example/
+Plugin Procrustes inputfile parameters.txt outputfile procrustes
